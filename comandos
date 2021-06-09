@@ -1,0 +1,3 @@
+git status - Reporta como esta o repositório.
+git config --global user.name "adiciona o nome".
+git config --global user.email "adiciona o email".
