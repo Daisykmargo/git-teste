@@ -1,3 +1,4 @@
+algumas Configuraçãos
 git config --global user.name "inserir nome"; 
 git config --global user.email "inserir email";
 git status - Reportar como esta o repositório;
